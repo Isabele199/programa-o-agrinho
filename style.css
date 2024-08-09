@@ -4,14 +4,14 @@
 }
 
 body{
-    background-color: #949791d3;
+    background-color: #74c5ebd3;
     text-align: center;
 }
 
 .cabecalho{
     background-color: #020917;
     background-image: linear-gradient(to );
-    color: rgba(194, 235, 231, 0.644);
+    color: rgba(44, 93, 122, 0.644);
     display: flex;
     justify-content: left;
     align-items: center;
@@ -34,7 +34,7 @@ body{
 }
 
 .texto-subtitulo{
-    background-image: linear-gradient(to right, rgb(16, 66, 16), transparent);
+    background-image: linear-gradient(to right, rgb(47, 177, 194), transparent);
     text-align: center;
     font-size: 30px;
     margin: 15px o 15px 0;
@@ -48,7 +48,7 @@ body{
     font-family: Verdana, Geneva, Arial, sans-serif;
     width: 250px;
     height: 400px;
-    background: rgb(51, 99, 65);
+    background: rgb(107, 193, 228);
     color: white;
     padding: 25px;
     border: 5px solid #271d1d;
